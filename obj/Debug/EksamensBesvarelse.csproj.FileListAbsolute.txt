@@ -1,0 +1,31 @@
+c:\users\ghaith_pc\documents\visual studio 2015\Projects\EksamensBesvarelse\EksamensBesvarelse\bin\Debug\EksamensBesvarelse.exe.config
+c:\users\ghaith_pc\documents\visual studio 2015\Projects\EksamensBesvarelse\EksamensBesvarelse\bin\Debug\EksamensBesvarelse.exe
+c:\users\ghaith_pc\documents\visual studio 2015\Projects\EksamensBesvarelse\EksamensBesvarelse\bin\Debug\EksamensBesvarelse.pdb
+c:\users\ghaith_pc\documents\visual studio 2015\Projects\EksamensBesvarelse\EksamensBesvarelse\obj\Debug\EksamensBesvarelse.csprojResolveAssemblyReference.cache
+c:\users\ghaith_pc\documents\visual studio 2015\Projects\EksamensBesvarelse\EksamensBesvarelse\obj\Debug\MainWindow.g.cs
+c:\users\ghaith_pc\documents\visual studio 2015\Projects\EksamensBesvarelse\EksamensBesvarelse\obj\Debug\App.g.cs
+c:\users\ghaith_pc\documents\visual studio 2015\Projects\EksamensBesvarelse\EksamensBesvarelse\obj\Debug\EksamensBesvarelse_MarkupCompile.cache
+c:\users\ghaith_pc\documents\visual studio 2015\Projects\EksamensBesvarelse\EksamensBesvarelse\obj\Debug\EksamensBesvarelse_MarkupCompile.lref
+c:\users\ghaith_pc\documents\visual studio 2015\Projects\EksamensBesvarelse\EksamensBesvarelse\obj\Debug\MainWindow.baml
+c:\users\ghaith_pc\documents\visual studio 2015\Projects\EksamensBesvarelse\EksamensBesvarelse\obj\Debug\EksamensBesvarelse.g.resources
+c:\users\ghaith_pc\documents\visual studio 2015\Projects\EksamensBesvarelse\EksamensBesvarelse\obj\Debug\EksamensBesvarelse.Properties.Resources.resources
+c:\users\ghaith_pc\documents\visual studio 2015\Projects\EksamensBesvarelse\EksamensBesvarelse\obj\Debug\EksamensBesvarelse.csproj.GenerateResource.Cache
+c:\users\ghaith_pc\documents\visual studio 2015\Projects\EksamensBesvarelse\EksamensBesvarelse\obj\Debug\EksamensBesvarelse.exe
+c:\users\ghaith_pc\documents\visual studio 2015\Projects\EksamensBesvarelse\EksamensBesvarelse\obj\Debug\EksamensBesvarelse.pdb
+C:\Users\Ghaith_PC\Desktop\Eksamen Besvarelse\opgave1Besvarelse\EksamensBesvarelse\bin\Debug\EksamensBesvarelse.exe.config
+C:\Users\Ghaith_PC\Desktop\Eksamen Besvarelse\opgave1Besvarelse\EksamensBesvarelse\obj\Debug\EksamensBesvarelse.exe
+C:\Users\Ghaith_PC\Desktop\Eksamen Besvarelse\opgave1Besvarelse\EksamensBesvarelse\obj\Debug\EksamensBesvarelse.pdb
+C:\Users\Ghaith_PC\Desktop\Eksamen Besvarelse\opgave1Besvarelse\EksamensBesvarelse\bin\Debug\EksamensBesvarelse.exe
+C:\Users\Ghaith_PC\Desktop\Eksamen Besvarelse\opgave1Besvarelse\EksamensBesvarelse\bin\Debug\EksamensBesvarelse.pdb
+C:\Users\Ghaith_PC\Desktop\Eksamen Besvarelse\opgave1Besvarelse\EksamensBesvarelse\obj\Debug\EksamensBesvarelse.csprojResolveAssemblyReference.cache
+C:\Users\Ghaith_PC\Desktop\Eksamen Besvarelse\opgave1Besvarelse\EksamensBesvarelse\obj\Debug\MainWindow.g.cs
+C:\Users\Ghaith_PC\Desktop\Eksamen Besvarelse\opgave1Besvarelse\EksamensBesvarelse\obj\Debug\App.g.cs
+C:\Users\Ghaith_PC\Desktop\Eksamen Besvarelse\opgave1Besvarelse\EksamensBesvarelse\obj\Debug\EksamensBesvarelse_MarkupCompile.cache
+C:\Users\Ghaith_PC\Desktop\Eksamen Besvarelse\opgave1Besvarelse\EksamensBesvarelse\obj\Debug\EksamensBesvarelse_MarkupCompile.lref
+C:\Users\Ghaith_PC\Desktop\Eksamen Besvarelse\opgave1Besvarelse\EksamensBesvarelse\obj\Debug\MainWindow.baml
+C:\Users\Ghaith_PC\Desktop\Eksamen Besvarelse\opgave1Besvarelse\EksamensBesvarelse\obj\Debug\EksamensBesvarelse.g.resources
+C:\Users\Ghaith_PC\Desktop\Eksamen Besvarelse\opgave1Besvarelse\EksamensBesvarelse\obj\Debug\EksamensBesvarelse.Properties.Resources.resources
+C:\Users\Ghaith_PC\Desktop\Eksamen Besvarelse\opgave1Besvarelse\EksamensBesvarelse\obj\Debug\EksamensBesvarelse.csproj.GenerateResource.Cache
+F:\Eksamen Besvarelse\opgave1Besvarelse\EksamensBesvarelse\bin\Debug\EksamensBesvarelse.exe.config
+F:\Eksamen Besvarelse\opgave1Besvarelse\EksamensBesvarelse\obj\Debug\EksamensBesvarelse.exe
+F:\Eksamen Besvarelse\opgave1Besvarelse\EksamensBesvarelse\obj\Debug\EksamensBesvarelse.pdb
